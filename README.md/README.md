@@ -40,11 +40,11 @@ PnL by Sentiment Classification:-
 Aggregating the total Closed PnL by classification revealed significant differences:
 
 Classification	Total Closed PnL (USD)
-Fear	3,357,155
-Extreme Greed	2,715,171
-Greed	2,150,129
-Neutral	1,292,921
-Extreme Fear	739,110
+Fear - 3,357,155
+Extreme Greed - 2,715,171
+Greed - 2,150,129
+Neutral - 1,292,921
+Extreme Fear - 739,110
 
 Surprisingly, the highest total Closed PnL was observed during 'Fear' periods, suggesting that these periods might offer more profitable trading opportunities. Conversely, 'Extreme Fear' periods yielded the lowest total Closed PnL.
 
@@ -52,11 +52,11 @@ Average Trade Size by Sentiment Classification
 The average trade size (Size USD) also varied across sentiment classifications:
 
 Classification	Average Trade Size (USD)
-Fear	7,816.11
-Greed	5,736.88
-Extreme Fear	5,349.73
-Neutral	4,782.73
-Extreme Greed	3,112.25
+Fear - 7,816.11
+Greed - 5,736.88
+Extreme Fear - 5,349.73
+Neutral - 4,782.73
+Extreme Greed - 3,112.25
 
 'Fear' periods were associated with the largest average trade sizes, reinforcing the idea that more substantial trading activity and potentially more confident traders are active during these times.
 
