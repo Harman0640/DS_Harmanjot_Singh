@@ -1,4 +1,5 @@
-Assignment Overview
+Assignment Overview:-
+
 This assignment explores the relationship between trader performance and market sentiment, uncovers hidden patterns, and delivers insights that can drive smarter trading strategies. Two primary datasets were used:
 
 Bitcoin Market Sentiment Dataset (Fear/Greed Index)
